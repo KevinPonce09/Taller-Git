@@ -1,4 +1,4 @@
-print('**************NOTAs*********************∖n')
+
 nombre = input ("Ingrese su nombre: ")
 nota = float(input("ingrese su nota: "))
 
